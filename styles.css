@@ -78,7 +78,6 @@ body {
 
 /* Hero Section */
 
-
 .hero {
   display: grid;
   grid-template-columns: 1.4fr 1fr;
@@ -226,6 +225,7 @@ body {
 
 
 /* Section Styling */
+
 section {
   padding: 80px 80px;
 }
@@ -254,7 +254,6 @@ section {
 }
 
 #about p {
-  /* max-width: 800px; */
   margin: 0 auto 30px;
   line-height: 1.8;
   font-size: 28px;
@@ -566,10 +565,7 @@ footer {
   font-size: 14px;
 }
 
-/* Mobile Menu */
-
-
-/* Responsive Design */
+/* Responsive */
 @media (max-width: 960px) {
 
   .hero {
